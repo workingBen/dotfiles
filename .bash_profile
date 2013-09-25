@@ -34,3 +34,4 @@ fi
 
 # source Git Remove Merge Branches
 . ~/.bash_profile_includes/rmb.sh
+. ~/.bash_profile_includes/emojiCommit.sh
