@@ -9,7 +9,7 @@ alias spostgres='postgres -D /usr/local/var/postgres'
 alias gb='git branch'
 alias gs='git status'
 
-#NOTE: replaced with emojiCommit
+# NOTE: replaced with emojiCommit 'gcm' and 'gcam' functions
 #alias gcm='git commit -m'
 #alias gcam='git commit -a -m'
 
