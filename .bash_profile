@@ -8,8 +8,11 @@ alias spostgres='postgres -D /usr/local/var/postgres'
 # git
 alias gb='git branch'
 alias gs='git status'
-alias gcm='git commit -m'
-alias gcam='git commit -a -m'
+
+#NOTE: replaced with emojiCommit
+#alias gcm='git commit -m'
+#alias gcam='git commit -a -m'
+
 alias ga='git add'
 alias gp='git push'
 alias gpl='git pull'
