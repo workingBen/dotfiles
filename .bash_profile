@@ -1,6 +1,6 @@
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
-export PATH="/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:~/bin:~/Development/adt-bundle-mac-x86_64-20130219/sdk/tools:~/Development/adt-bundle-mac-x86_64-20130219/sdk/platform-tools:$PATH"
+export PATH="/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:~/bin:~/Development/adt-bundle-mac-x86_64-20130219/sdk/tools:~/Development/adt-bundle-mac-x86_64-20130219/sdk/platform-tools:/usr/local/share/npm/bin:$PATH"
 
 export NODE_PATH="/usr/local/bin/node"
 
