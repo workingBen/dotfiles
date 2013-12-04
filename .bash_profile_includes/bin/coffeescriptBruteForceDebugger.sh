@@ -16,7 +16,6 @@ do
   tag="$filename: $count"
 
   whitespace=${line%%[![:space:]]*}
-  #echo "*** $test ***"
 
   newFile+="\r\n$whitespace"
   newFile+="console.error '$tag'\r\n"
