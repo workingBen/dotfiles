@@ -37,6 +37,11 @@ if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
 fi
 
+# source .bashrc file if it exists
+if [ -f ~/.bashrc ]; then
+   source ~/.bashrc
+fi
+
 # source Git Remove Merge Branches
 . ~/.bash_profile_includes/rmb.sh
 . ~/.bash_profile_includes/emojiCommit.sh
